@@ -17,7 +17,7 @@ const EmpresaList = () => {
         }
     }
     
-    //UseEffect es un intermediario para ejecutar codigo javaScript nativo
+    //UseEffect permite ejecutar tareas secundaria dentro de nuestros componentes funcionales,
     useEffect(()=>{
         listEmpresas();
     },[]) 
