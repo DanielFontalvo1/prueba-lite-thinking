@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.letra{
+  color:#ffe900;
+  font-weight: bolder;
+}
+
+#home{
+  color:#ffe900;
+  font-weight: bolder;
+}
+
+.bordes{
+  border-style: solid;
+  border-color: #ffe900;
+}
